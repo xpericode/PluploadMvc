@@ -1,2 +1,1 @@
-# PluploadMvc
-Integrating Plupload with ASP.NET MVC.
+##### Repository is @ https://github.com/mwijnands/PluploadMvc. It will be moved here soon.
